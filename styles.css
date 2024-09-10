@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #405252; /* Dark Slate Gray for header */
+    background-color: #405252;
     color: white;
     text-align: center;
     padding: 30px 0;
@@ -16,18 +16,18 @@ header {
 
 header img.avatar {
     border-radius: 25%;
-    width: 170px; /* Adjusted size */
-    height: 200px; /* Adjusted size */
-    margin-bottom: 20px; /* Added space between avatar and navbar */
+    width: 170px; 
+    height: 200px; 
+    margin-bottom: 20px; 
 }
 
 header h1 {
-    font-size: 2.5em; /* Enlarged name */
+    font-size: 2.5em;
     margin: 10px 0;
 }
 
 header p {
-    font-size: 1.5em; /* Enlarged profession text */
+    font-size: 1.5em;
     margin: 10px 0;
 }
 
@@ -60,7 +60,7 @@ main {
 }
 
 footer {
-    background-color: #405252; /* Dark Slate Gray for footer */
+    background-color: #405252;
     color: white;
     text-align: center;
     padding: 20px 0;
