@@ -1,3 +1,65 @@
+#title {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+  height: 806px;
+}
+
+#titlepng {
+  padding-top: 5px;
+}
+
+#titlebutton1 {
+  background-color: white;
+  color: black;
+  border-color: white;
+}
+
+#titlebutton2 {
+  border-color: white;
+  color: white;
+}
+
+#features {
+  margin-top: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#featuresblock {
+  
+
+}
+
+#testimonial {
+  
+}
+
+#testimonialblock {
+  background-color: white !important;
+}
+
+#testimonialavatar {
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+
+.testimonial_png_block {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
 .gradient-background {
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background-size: 180% 180%;
