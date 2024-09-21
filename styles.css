@@ -92,3 +92,24 @@ h1, h2 {
     height: 100%;
     border-radius: 4px;
 }
+
+#maincontainer {
+    background-color: #405252;
+}
+
+#header {
+    background-color: #405252 !important;
+}
+
+#btncolor {
+    background-color: #405252;
+    border-color: white;
+}
+
+#btnfontsize {
+    font-size: 20px;
+}
+
+body {
+    background-color: #405252 !important;
+}
