@@ -52,6 +52,57 @@
   justify-content: space-around;
 }
 
+#pricing {
+  
+}
+
+#pricingblock {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+}
+
+#cols {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#pricing_card {
+  width: 300px;
+}
+
+#pricing_card_3 {
+  width: 300px;
+  border-color: #21242a !important;
+}
+
+#pricingbutton {
+  background-color: #21242a;
+  border-color: #21242a;
+}
+
+#pricingbutton1 {
+  border-color: #21242a !important;
+  color:#21242a;
+  
+}
+
+#pricingbutton1:hover {
+  background-color: #21242a;
+  color: white;
+}
+
+
+.text-bg-primary {
+  background-color: #21242a !important;
+}
+
+.border-primary {
+  border-color: #21242a !important;
+}
+
 
 
 
