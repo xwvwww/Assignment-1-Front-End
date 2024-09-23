@@ -3,6 +3,9 @@ body {
 }
 
 #footer {
-    margin-top: 250px !important;
     background-color: #404e6b;
+}
+
+#custom-cards2, #custom-cards3 {
+    margin-top: -150px;
 }
