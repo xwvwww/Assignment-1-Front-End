@@ -110,6 +110,10 @@ h1, h2 {
     font-size: 20px;
 }
 
+.progress-bar {
+    background-color: #405252 !important;
+}
+
 body {
     background-color: #405252 !important;
 }
